@@ -79,8 +79,8 @@ business use case like this.”
 	•	Random Forest’s ensemble nature makes it better suited for high-dimensional problems like fraud detection.
 
 # What Was Learned
-	•	Efficient hyperparameter tuning can optimize model performance significantly.
-	•	Bayesian Search outperforms traditional tuning methods by focusing on the most promising areas of the parameter space.
-	•	The importance of pipelines in maintaining a consistent and repeatable workflow for preprocessing and modeling.
+•	Efficient hyperparameter tuning can optimize model performance significantly.
+•	Bayesian Search outperforms traditional tuning methods by focusing on the most promising areas of the parameter space.
+•	The importance of pipelines in maintaining a consistent and repeatable workflow for preprocessing and modeling.
 
  ￼
