@@ -11,7 +11,7 @@ intuitive sense. I think a lot of the tools are overfitting the data set.”
 • “It is OK to have a higher overall error rate with simple human understandable rules for a
 business use case like this.”
 
-#Key Features
+# Key Features
 1.	Data Loading and Preprocessing:
 	•	The dataset includes Insurance Fraud - TRAIN-3000.csv and Insurance Fraud - TEST-12900.csv.
 	•	Numerical features are scaled, and categorical features are one-hot encoded.
@@ -41,6 +41,10 @@ business use case like this.”
 	•	Recall
 	•	F1-score
 	•	Separate evaluation on test data for models from each tuning method.
+
+# Datasets
+https://canvas.asu.edu/courses/197217/pages/fraud-detection
+
 
 # Technologies Used
 1.	Programming Language:
